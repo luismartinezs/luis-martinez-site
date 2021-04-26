@@ -1,3 +1,10 @@
+---
+title: Do you need a PhD to be a developer? - Luis Martinez Web Developer
+description: A PhD helped my resume stand out in a positive way. It suggests intelligence, and the ability to work persistently in a complicated problem. But...
+excerpt: A PhD helped my resume stand out in a positive way. That made it easier to get an interview. However, once in the interview, what mattered was no longer the PhD.
+createdAt: 2020-04-12
+---
+
 # Is higher education (e.g. a PhD) necessary to get a job as a junior developer?
 
 Image source: [Winter Castle by Kim Ella](https://www.artstation.com/artwork/d61mJ)

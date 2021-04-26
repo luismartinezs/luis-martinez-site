@@ -1,6 +1,7 @@
 <template>
   <div>
-    <Nuxt />
+    <TheHeader />
+    <Nuxt class="w-full mx-auto" />
   </div>
 </template>
 

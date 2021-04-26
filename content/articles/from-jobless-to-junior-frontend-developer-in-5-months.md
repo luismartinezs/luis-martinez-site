@@ -1,3 +1,10 @@
+---
+title: From jobless to junior developer in 5 months - Luis Martinez Web Developer
+description: There is a huge demand for developers in the market right now. A few months of focused learning are enough, and you don't need to spend a dime to learn.
+excerpt: There is a huge demand for developers in the market right now. It is a great time to learn coding, and you don't need years and years of studies to be "hirable". A few months of focused learning are enough, and you don't need to spend a dime to learn.
+createdAt: 2020-02-22
+---
+
 # From jobless to junior frontend developer in 5 months
 
 ## Tl,dr

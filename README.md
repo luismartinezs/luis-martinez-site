@@ -18,3 +18,10 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+
+## Tasks
+
+- [ ] Page title for articles
+- [ ] Metadata for articles
+- [ ] Thumbnail image for articles
