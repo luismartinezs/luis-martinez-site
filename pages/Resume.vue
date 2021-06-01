@@ -1,12 +1,12 @@
 <template>
-  <div class="container mx-auto px-4 prose prose-blue">
+  <div class="container px-4 mx-auto prose prose-blue">
     <nuxt-content :document="page" />
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Article',
+  name: 'Resume',
   async asyncData({ $content }) {
     const page = await $content(`resume`).fetch()
 

@@ -1,5 +1,7 @@
 # luis-martinez-site
 
+Why `Nuxt`? I want this site to be SEO-friendly. Even though I'd really like to use `Vue3` with `Vite`.
+
 ## Build Setup
 
 ```bash
@@ -25,3 +27,5 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 - [ ] Page title for articles
 - [ ] Metadata for articles
 - [ ] Thumbnail image for articles
+- [ ] Better logo
+- [ ] Define visual style

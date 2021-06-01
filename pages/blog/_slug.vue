@@ -1,17 +1,17 @@
 <template>
   <div class="container px-4 mx-auto prose prose-blue">
-    <nuxt-content :document="page" />
+    <nuxt-content :document="post" />
   </div>
 </template>
 
 <script>
 export default {
-  name: 'About',
+  name: 'Blogpost',
   async asyncData({ params, $content }) {
-    const page = await $content(`about`).fetch()
+    const post = await $content(`blog/${params.slug}`).fetch()
 
     return {
-      page,
+      post,
     }
   },
 }

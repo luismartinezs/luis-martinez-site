@@ -1,10 +1,6 @@
 <template>
-  <div class="container mx-auto px-4 prose">
-    <ArticleLinkBox
-      v-for="article in articles"
-      :key="article.slug"
-      :article="article"
-    />
+  <div class="container px-4 mx-auto prose">
+    <BlogpostLinkBox v-for="post in blog" :key="post.slug" :post="post" />
   </div>
 </template>
 
@@ -12,10 +8,10 @@
 export default {
   name: 'Home',
   async asyncData({ $content }) {
-    const articles = await $content('articles').fetch()
+    const blog = await $content('blog').fetch()
 
     return {
-      articles,
+      blog,
     }
   },
 }
