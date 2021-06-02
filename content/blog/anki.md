@@ -7,7 +7,9 @@ createdAt: 2020-08-07
 
 # How I use Anki to study programming: Anki setup and card creation
 
-Image source: [Warriors memory by Patrik Pulkkinen](https://www.artstation.com/artwork/RYLwbA)
+<featured-image path="patrik-pulkkinen-warriors-memory_wv4wmi" alt=""></featured-image>
+
+Image source: [Warriors memory by Patrik Pulkkinen](https://www.artstation.com/patrik)
 
 Anki is a software to use flashcards (question and answer cards) on the computer or mobile. I use it to review what I learn when I am studying programming. Anki is an **extremely valuable tool to prevent forgetting what I have studied in the past**.
 

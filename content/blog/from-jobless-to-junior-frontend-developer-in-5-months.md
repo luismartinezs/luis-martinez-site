@@ -7,6 +7,9 @@ createdAt: 2020-02-22
 
 # From jobless to junior frontend developer in 5 months
 
+<featured-image path="galen-crout-fItRJ7AHak8-unsplash_h5yt9m" alt=""></featured-image>
+
+
 ## Tl,dr
 
 

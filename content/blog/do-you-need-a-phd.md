@@ -7,7 +7,9 @@ createdAt: 2020-04-12
 
 # Is higher education (e.g. a PhD) necessary to get a job as a junior developer?
 
-Image source: [Winter Castle by Kim Ella](https://www.artstation.com/artwork/d61mJ)
+<featured-image path="del-goni-winter-castle_hprwvf" alt=""></featured-image>
+
+Image source: [Winter Castle by Kim Ella](https://www.artstation.com/delgoni)
 
 tl,dr: No. You need commitment and technical skills. Though a PhD helps your resume stand out, upping your chances to get interviews.
 

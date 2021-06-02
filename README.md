@@ -29,3 +29,5 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 - [ ] Thumbnail image for articles
 - [ ] Better logo
 - [ ] Define visual style
+- [ ] Make 512 x 512 icon.png file and put it static folder
+- [ ] Add preview.png image to static for social preview

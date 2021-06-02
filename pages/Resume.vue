@@ -14,5 +14,8 @@ export default {
       page,
     }
   },
+  head: {
+    title: 'Resume - Luis Martinez Web Developer',
+  },
 }
 </script>

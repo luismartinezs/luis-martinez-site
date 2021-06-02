@@ -14,5 +14,8 @@ export default {
       page,
     }
   },
+  head: {
+    title: 'About - Luis Martinez Web Developer',
+  },
 }
 </script>
