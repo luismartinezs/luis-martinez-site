@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-100">
+  <div>
     <TheHeader />
     <Nuxt class="w-full mx-auto" />
   </div>
