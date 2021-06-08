@@ -1,1 +1,5 @@
 @import './tailwind.css';
+
+code {
+  @apply bg-gray-100 rounded-sm;
+}
