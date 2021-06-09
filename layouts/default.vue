@@ -1,5 +1,9 @@
 <template>
   <div>
+    <div class="flex h-1">
+      <div class="flex-1 h-full bg-indigo-500"></div>
+      <div class="flex-1 h-full bg-green-500"></div>
+    </div>
     <TheHeader />
     <Nuxt class="w-full mx-auto" />
   </div>

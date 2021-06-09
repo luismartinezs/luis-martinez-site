@@ -1,7 +1,8 @@
 <template>
-  <header class="p-8 flex justify-between items-center">
+  <header class="flex items-center justify-between p-8">
     <NuxtLink to="/">
-      <img src="~/assets/logo.png" alt="logo" />
+      <!-- <img src="~/assets/new-logo.png" alt="logo" class="h-12" /> -->
+      <CssLogo />
     </NuxtLink>
     <nav class="flex justify-end space-x-8">
       <NuxtLink to="/">Home</NuxtLink>
@@ -12,7 +13,11 @@
 </template>
 
 <script>
+import CssLogo from '@/components/CssLogo.vue'
 export default {
   name: 'TheHeader',
+  components: {
+    CssLogo,
+  },
 }
 </script>
