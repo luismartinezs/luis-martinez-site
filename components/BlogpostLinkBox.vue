@@ -1,8 +1,12 @@
 <template>
-  <NuxtLink :to="`/blog/${post.slug}`">
-    <h2>{{ post.title }}</h2>
-    <p>{{ post.description }}</p>
-  </NuxtLink>
+  <div class="mt-2">
+    <NuxtLink
+      :to="`/blog/${post.slug}`"
+      class="text-gray-700 link link-primary"
+    >
+      <span>&#10148; {{ title }}</span>
+    </NuxtLink>
+  </div>
 </template>
 
 <script>
@@ -12,6 +16,11 @@ export default {
     post: {
       type: Object,
       required: true,
+    },
+  },
+  computed: {
+    title() {
+      return this.post.title.split('- Luis')[0].trim()
     },
   },
 }

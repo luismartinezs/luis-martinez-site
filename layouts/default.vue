@@ -1,11 +1,16 @@
 <template>
-  <div>
-    <div class="flex h-1">
-      <div class="flex-1 h-full bg-indigo-500"></div>
-      <div class="flex-1 h-full bg-green-500"></div>
+  <div class="flex flex-col justify-between h-screen">
+    <div>
+      <div class="flex h-1">
+        <div class="flex-1 h-full bg-indigo-500"></div>
+        <div class="flex-1 h-full bg-green-500"></div>
+      </div>
+      <TheHeader />
+      <main class="w-full mx-auto mt-6">
+        <Nuxt />
+      </main>
     </div>
-    <TheHeader />
-    <Nuxt class="w-full mx-auto" />
+    <TheFooter />
   </div>
 </template>
 

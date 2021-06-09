@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .link {
+    @apply no-underline hover:underline;
+  }
+  .link-primary {
+    @apply text-indigo-700 hover:text-indigo-500;
+  }
+}
+
+@layer utilities {
+  .prose a {
+    @apply link link-primary;
+  }
+}
