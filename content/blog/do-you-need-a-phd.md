@@ -9,7 +9,7 @@ createdAt: 2020-04-12
 
 <featured-image path="del-goni-winter-castle_hprwvf" alt=""></featured-image>
 
-Image source: [Winter Castle by Kim Ella](https://www.artstation.com/delgoni)
+Image source: <a href="https://www.artstation.com/delgoni" rel="nofollow">Winter Castle by Kim Ella</a>
 
 tl,dr: No. You need commitment and technical skills. Though a PhD helps your resume stand out, upping your chances to get interviews.
 
@@ -20,7 +20,7 @@ tl,dr: No. You need commitment and technical skills. Though a PhD helps your res
 ## Why do I write this?
 
 
-In October 2019 I submitted a post on reddit titled "[From jobless to junior frontend developer in 5 months](http://bit.ly/2SLTVZl)" that got attention (also in [this blog](https://www.luis-martinez.net/from-jobless-to-junior-frontend-developer-in-5-months/)). I also have a PhD in computational chemistry. A handful of commenters assumed that my PhD got me the job. I am thankful to them for making me aware of that point of view (I wasn't). I think it is a reasonable assumption. I also think it's mistaken, and I will now give my view on this point.
+In October 2019 I submitted a post on reddit titled "[From jobless to junior frontend developer in 5 months](http://bit.ly/2SLTVZl)" that got attention (also in <nuxt-link to="/blog/from-jobless-to-junior-frontend-developer-in-5-months">this blog</nuxt-link>). I also have a PhD in computational chemistry. A handful of commenters assumed that my PhD got me the job. I am thankful to them for making me aware of that point of view (I wasn't). I think it is a reasonable assumption. I also think it's mistaken, and I will now give my view on this point.
 
 Keep in mind that the context is specifically getting a first job as a *junior* frontend developer.
 
@@ -87,7 +87,7 @@ In my opinion and experience, that is **commitment** and fundamental **technical
 ### Fundamental technical knowledge:
 
 
-- Add that you know **HTML5, CSS3, JavaScript and React** (as a frontend dev --- and yes, another framework will do). I go into a bit more detail on what technical skills are needed [in my previous post](http://bit.ly/2SLTVZl) (look for *"the minimum to get a first job"*). Don't bother lying about these, you wouldn't pass the interview anyway.
+- Add that you know **HTML5, CSS3, JavaScript and React** (as a frontend dev --- and yes, another framework will do). I go into a bit more detail on what technical skills are needed <nuxt-link to="/blog/from-jobless-to-junior-frontend-developer-in-5-months">in my previous post</nuxt-link> (look for *"the minimum to get a first job"*). Don't bother lying about these, you wouldn't pass the interview anyway.
 
 - You can add MongoDB and NodeJS/ExpressJS if it is true that you know how to use them (every bootcamp seems to include these), but they are not necessary because as a junior frontend developer you wouldn't be doing anything with the backend and databases anyway.
 
@@ -110,5 +110,5 @@ Even if you feel that you lack in formal education, don't let it be a deterrent 
 ## Useful links:
 
 
-- [My previous post: "From jobless to junior frontend developer in 5 months"](https://www.luis-martinez.net/from-jobless-to-junior-frontend-developer-in-5-months/)
+- <nuxt-link to="/blog/from-jobless-to-junior-frontend-developer-in-5-months">My previous post: "From jobless to junior frontend developer in 5 months"</nuxt-link>
 - [My sample resume](http://bit.ly/38wlTPF)

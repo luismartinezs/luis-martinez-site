@@ -19,7 +19,5 @@ Things I've done in past lives:
 - A kickstarter. 🎲
 - As a little kid I loved drawing. 🎨 I still do.
 
-Other things I like: [FromSoftware video games](https://www.youtube.com/watch?v=VTjJFJc1AfY&list=PLrVlvcyP9YsAAqlTw2Mu_gbcoZanM3vHq) 🎮, [craft beer](http://edgebrewing.com/beer/hoptimista/) 🍺, summer and beach 🏖, [Wim Hof method](https://www.youtube.com/watch?v=vhr0EvJMNX8). ❄
-
 My secret regret: not having started learning the web development.
 Contact: [luismartinezwebdev@gmail.com](mailto:luismartinezwebdev@gmail.com)

@@ -9,7 +9,7 @@ createdAt: 2020-08-07
 
 <featured-image path="patrik-pulkkinen-warriors-memory_wv4wmi" alt=""></featured-image>
 
-Image source: [Warriors memory by Patrik Pulkkinen](https://www.artstation.com/patrik)
+Image source: <a href="https://www.artstation.com/patrik" rel="nofollow">Warriors memory by Patrik Pulkkinen</a>
 
 Anki is a software to use flashcards (question and answer cards) on the computer or mobile. I use it to review what I learn when I am studying programming. Anki is an **extremely valuable tool to prevent forgetting what I have studied in the past**.
 
