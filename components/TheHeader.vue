@@ -5,11 +5,22 @@
       <CssLogo />
     </NuxtLink>
     <nav class="flex justify-end space-x-8">
-      <NuxtLink to="/" class="text-gray-700 link link-primary">Home</NuxtLink>
-      <NuxtLink to="/about" class="text-gray-700 link link-primary"
+      <NuxtLink
+        to="/"
+        class="text-gray-700 link link-primary"
+        :class="[$route.name === 'index' ? 'underline' : '']"
+        >Home</NuxtLink
+      >
+      <NuxtLink
+        to="/about"
+        class="text-gray-700 link link-primary"
+        :class="[$route.name === 'About' ? 'underline' : '']"
         >About</NuxtLink
       >
-      <NuxtLink to="/resume" class="text-gray-700 link link-primary"
+      <NuxtLink
+        to="/resume"
+        class="text-gray-700 link link-primary"
+        :class="[$route.name === 'Resume' ? 'underline' : '']"
         >Resume</NuxtLink
       >
     </nav>
