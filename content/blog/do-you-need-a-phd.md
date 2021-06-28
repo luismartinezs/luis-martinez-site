@@ -20,7 +20,7 @@ tl,dr: No. You need commitment and technical skills. Though a PhD helps your res
 ## Why do I write this?
 
 
-In October 2019 I submitted a post on reddit titled "[From jobless to junior frontend developer in 5 months](http://bit.ly/2SLTVZl)" that got attention (also in <nuxt-link to="/blog/from-jobless-to-junior-frontend-developer-in-5-months">this blog</nuxt-link>). I also have a PhD in computational chemistry. A handful of commenters assumed that my PhD got me the job. I am thankful to them for making me aware of that point of view (I wasn't). I think it is a reasonable assumption. I also think it's mistaken, and I will now give my view on this point.
+In October 2019 I submitted a post on reddit titled that got attention (also in <nuxt-link to="/blog/from-jobless-to-junior-frontend-developer-in-5-months">this blog</nuxt-link>). I also have a PhD in computational chemistry. A handful of commenters assumed that my PhD got me the job. I am thankful to them for making me aware of that point of view (I wasn't). I think it is a reasonable assumption. I also think it's mistaken, and I will now give my view on this point.
 
 Keep in mind that the context is specifically getting a first job as a *junior* frontend developer.
 

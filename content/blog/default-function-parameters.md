@@ -5,6 +5,20 @@ excerpt: This is a short story of two **JavaScript functions**. What they do is 
 createdAt: 2021-06-03
 ---
 
+<!--
+SEED KEYWORDS
+javascript
+javascript function
+javascript function parameters
+default function parameter
+default function parameters
+frontend developer
+undefined
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters#passing_undefined_vs._other_falsy_values
+-->
+
 # Using default function parameters wrong and right in JavaScript
 
 This is a short story of two **JavaScript functions**.

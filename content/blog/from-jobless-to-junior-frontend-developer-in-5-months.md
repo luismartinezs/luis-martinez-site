@@ -57,8 +57,6 @@ I have no computer science degree, but I am more computer versed than the averag
 
 **Note**: I've been told recently that having a PhD helped catch the eye of the interviewer.
 
-**Edit**: The mention of a PhD encouraged lively comments <a href="https://www.reddit.com/r/learnprogramming/comments/diw2yb/from_jobless_to_junior_frontend_developer_in_5/" target="_blank">on reddit</a>
-
 
 
 ## Why front end web development?
@@ -199,4 +197,3 @@ Thant's all for now. I'm happy to reply to any questions or comments that you ma
 - [javascript.info](http://javascript.info/)
 - [A project I used in a job interview](https://github.com/luismartinezs/studio-ghibli-books)
 - [Resume](https://drive.google.com/open?id=1AcQR3Voug9TeGqZBDG0SMxc7uQSvrV4e)
-- [Original reddit post](https://www.reddit.com/r/learnprogramming/comments/diw2yb/from_jobless_to_junior_frontend_developer_in_5/)
