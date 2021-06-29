@@ -22,8 +22,8 @@ Things I've done in past lives:
 
 - a PhD in science. 🤓
 - Working as a project manager in IT.
-- A kickstarter. 🎲
-- As a little kid I loved drawing. 🎨 I still do.
+- [A card game](https://www.kickstarter.com/projects/rafaelgonzalez/final-boss-the-card-game). 🎲
+- As a little kid I loved drawing. 🎨 [I still do](https://www.artstation.com/luismartinez).
 
 I like:
 
