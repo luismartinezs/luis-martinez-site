@@ -1,6 +1,6 @@
 <template>
   <WidthWrapper width="text">
-    <h2 class="text-xl font-semibold text-gray-800">Blog posts</h2>
+    <h2 class="text-3xl font-semibold text-gray-800">Blog posts</h2>
     <div class="mt-6">
       <BlogpostLinkBox
         v-for="post in sortedPosts"
