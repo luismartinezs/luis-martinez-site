@@ -6,11 +6,15 @@ title: About me - Luis Martinez Web Developer
 
 Hi! My name is Luis Martínez.
 
-In August 2018 I decided to become a web developer.
+In August 2018 I decided to become a web developer (<nuxt-link to="/blog/from-jobless-to-junior-frontend-developer-in-5-months">learn about how I did it</nuxt-link>).
 
-Currently, I make web apps with Vue.js, a very easy to use and learn Frontend JavaScript framework.
+Things I've done as a web developer:
 
-I have also done a few things with React. I work with HTML5, CSS3, SCSS and Bootstrap 4. I also work with Node.js/Express.js, serverless and Google Apps Script. All my projects are showcased either in my Github or on Codepen.
+- Web apps with **VueJS**
+- SSR sites with **Nuxt**
+- Styling with **Tailwind CSS** and Bootstrap 4 / Vue Bootstrap
+
+I also know a little about PostCSS, React, NodeJS/Express, serverless and AWS, SCSS and Google sheets / Google Apps Script.
 
 Things I've done in past lives:
 
@@ -19,5 +23,12 @@ Things I've done in past lives:
 - A kickstarter. 🎲
 - As a little kid I loved drawing. 🎨 I still do.
 
-My secret regret: not having started learning the web development.
+I like:
+
+- Jojo and Star Wars memes
+- Dark souls
+- Imagining that I can design proper user interfaces 🤷‍♂️
+
+My secret regret: not having started learning web development 10 years earlier.
+
 Contact: [luismartinezwebdev@gmail.com](mailto:luismartinezwebdev@gmail.com)
