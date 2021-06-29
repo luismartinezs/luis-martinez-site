@@ -4,6 +4,8 @@ title: About me - Luis Martinez Web Developer
 
 # About me
 
+> I've been a scientist and an artist, now I'm a developer, which needs a bit of both
+
 Hi! My name is Luis Martínez.
 
 In August 2018 I decided to become a web developer (<nuxt-link to="/blog/from-jobless-to-junior-frontend-developer-in-5-months">learn about how I did it</nuxt-link>).
