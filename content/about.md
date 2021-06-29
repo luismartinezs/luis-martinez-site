@@ -27,9 +27,10 @@ Things I've done in past lives:
 
 I like:
 
-- Jojo and Star Wars memes
+- Greek salad
+- Wim hof
 - Dark souls
-- Imagining that I can design proper user interfaces 🤷‍♂️
+- Jojo's bizarre adventure
 
 My secret regret: not having started learning web development 10 years earlier.
 
