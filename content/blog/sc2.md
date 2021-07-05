@@ -5,7 +5,7 @@ excerpt:
 createdAt: 2021-07-01
 ---
 
-# What lessons from Starcraft 2 can be applied to real life
+# What lessons from Starcraft 2 can be applied to real life?
 
 Starcraft 2 is an RTS. A very fun and good one, in my opinion. I loved Starcraft and Starcraft 2 since I was a kid. I never really learned to play it in a competitive level, but I know enough about how it works.
 
@@ -110,6 +110,36 @@ The next image (from [Keybr](https://www.keybr.com/)) is my improvement on typin
 
 <base-img path="typing-chart_q9ezmm" alt="My typing speed improves dramatically after adding it to my habit rotation"></base-img>
 
-The **red dots** are the number of **errors**, the **green dots** are the typing **speed**. The vertical **yellow line** shows when I started practicing typing as part of my **habit rotation**. The massive improvement is obvious.
+The **red dots** are the number of **errors**, the **green dots** are the typing **speed**. The vertical **yellow line** shows when I started practicing typing as part of my **habit rotation**. Anecdotal, but the massive improvement is obvious.
 
-Continue with "number 2".
+How about number 2? Namely, automating / optimizing / facilitating repetitive activities.
+
+In Starcraft, you establish a specific way of doing something, then you practice until it becomes second nature.
+
+That would be like establishing protocols and procedures so you don't have to think about how to do things every time. A workout routine would fulfill this role.
+
+Optimizing would mean "finding the best possible way" of doing something.
+
+Since Starcraft is a game, automating tasks (which can be done with bots) is cheating. But in real life of course using automation tools means using technology to our advantage and something we should be doing.
+
+I can't automate workouts, but I can make it simple. For example, with the [AthleanX home workout](https://ahtleanx-home-workout.netlify.app/) web app I created for my workouts.
+
+### Managing macro
+
+Good macro is maintained with **habits**; recurrent tasks done timely. I devised a very simple way to manage this.
+
+I'll remark it: **Good macro is all about habits**.
+
+I decide how often a task should be done, then I set a timer on loop. The [multitimer android app](https://play.google.com/store/apps/details?id=com.jee.timer&hl=en&gl=US) does this just fine.
+
+I have a number of these habits set up, and reminders to do the things I want to do without me having to wonder about what I should be doing when. It frees my brain to think about other things and away from stressing about whether I am doing the right thing or not.
+
+So, I shouldn't need to think about **when** to do these habits.
+
+I shouldn't need to think about **how** to do them either. So for each habit I have a fixed process I do every time. I'm still figuring this part out. At the moment, I improvise.
+
+For example, [Quentin Tarantino said about his writing process](https://www.youtube.com/watch?v=Yk7l_C9ADTk) that he writes during the day, then he sits down in his pool, where he plays in his mind about what he wrote that day, then he generates a bunch of ideas, he writes them down as notes to write them the next day. And that is his writing process. It makes things work. It's his process.
+
+> Establish a macro cycle
+> Identifiy and eliminate things that get in the way of your macro, bad habits, time sinks...
+> Look for better ways to do things, normal life tends to be inefficient
