@@ -7,7 +7,9 @@ createdAt: 2021-07-01
 
 # What lessons from Starcraft 2 can be applied to real life?
 
-Starcraft 2 is an RTS. A very fun and good one, in my opinion. I loved Starcraft and Starcraft 2 since I was a kid. I never really learned to play it in a competitive level, but I know enough about how it works.
+## What is Starcraft 2?
+
+Starcraft 2 is an Real Time Strategy video game. A very fun and good one, in my opinion. I loved Starcraft and Starcraft 2 since I was a kid. I never really learned to play it in a competitive level, but I know enough about how it works.
 
 I've played quite a bit, I've tried to learn a bit, and I've listened to youtubers who explain how to learn. Most notorioulsy, [Day9](https://www.youtube.com/channel/UCaxar6TBM-94_ezoS00fLkA) (waaay back in the day) and [Lowko](https://www.youtube.com/channel/UCZNTsLA6t6bRoj-5QRmqt_w).
 
@@ -16,6 +18,8 @@ THere's a real learning process and qualities of it that forever has caught my a
 These are some of the knowledge I abstracted and adapted for a more generic game (real life) from vidoes I watched.
 
 Take it seriously or take it as a fun exercise. In any case, enjoy.
+
+## Learning complex skills
 
 They are in the context of **learning** a very complex skill, so complex that it might feel impossible or frustrating, in a competitive environment. And also about some generalities of life.
 
@@ -47,7 +51,7 @@ Example:
 
 My goal is to be a good developer. Good developers know how to code. Plus their code is easy to understand and ordered. This means that they use functional programming (just hypothetically). So every function is short, pure and does one and only one thing. Ok, so whatever I do today, I won't write a function that is more than 20 lines long and does more than what it's name says, no matter what.
 
-This is a shift in mindset. From "being a good developer" to something actually useful.
+This is a shift in mindset. From "being a good developer", a huge and overwhelming enterprise, to something specific that I can focus on and wrap my mind around right now.
 
 ### Review, look back
 
@@ -59,15 +63,21 @@ There's always a point where you did something that led you to lose that game.
 
 Reviewing past games is an exteremely important part of improving. Where are you failing? What is actually causing you to lose? What's the thing that is limiting you the most? How could you have "won"?
 
+This is similar to applying the 80/20 principle to your mistakes. What is the mistake that is causing 80% of your defeats.
+
 But don't beat yourself up for your mistakes. We all do mistakes, it's human.
 
-### All strategies aree a valid part of the game
+#### Principle of earliest cause
+
+Long ago, in a video by Day9 (which I wouldn't be able to find now), I heard him say that if you look for the cause of your mistakes, don't look at the thing that immediately preceded it. That's the natural impulse. Instead, look back through, and find the first thing that was a mistake, and then fix it.
+
+### All strategies are a valid part of the game
 
 blblabla
 
 ## Macro and micro
 
-There are two concepts in Starcraft, macro, or the things that you do to keep your economy and production running, and micro, or the way you micromanage your units in the map.
+There are two concepts in Starcraft, **macro**, or the things that you do to keep your economy and production running, and **micro**, or the way you micromanage your units in the map.
 
 You can think about them more or less like "strategy" and "tactics", or perhaps more accurately, "important" and "urgent" things.
 
@@ -83,6 +93,8 @@ The lessons that I extracted from Starcraft are essentially 2:
 2. Try to optimize or automate or facilitate the things you do over an over as much as possible.
 
 How to go about number 1?
+
+### Prioritize the important over the urgent
 
 In Starcraft there's something called "macro rotations". This is a series of tasks that you have to do routinely every few seconds to keep your macro healthy. Translated to real life, this results in what one might call "habit rotations", and these, like macro in the game, take priority over anything else, because they are the most important things you do to keep things afloat.
 
@@ -114,11 +126,13 @@ The **red dots** are the number of **errors**, the **green dots** are the typing
 
 How about number 2? Namely, automating / optimizing / facilitating repetitive activities.
 
+### Automate and optimize macro tasks
+
 In Starcraft, you establish a specific way of doing something, then you practice until it becomes second nature.
 
 That would be like establishing protocols and procedures so you don't have to think about how to do things every time. A workout routine would fulfill this role.
 
-Optimizing would mean "finding the best possible way" of doing something.
+Optimizing would mean "finding the best possible way" of doing something. The way that generates the maximum output with the minimum input.
 
 Since Starcraft is a game, automating tasks (which can be done with bots) is cheating. But in real life of course using automation tools means using technology to our advantage and something we should be doing.
 
@@ -138,8 +152,26 @@ So, I shouldn't need to think about **when** to do these habits.
 
 I shouldn't need to think about **how** to do them either. So for each habit I have a fixed process I do every time. I'm still figuring this part out. At the moment, I improvise.
 
-For example, [Quentin Tarantino said about his writing process](https://www.youtube.com/watch?v=Yk7l_C9ADTk) that he writes during the day, then he sits down in his pool, where he plays in his mind about what he wrote that day, then he generates a bunch of ideas, he writes them down as notes to write them the next day. And that is his writing process. It makes things work. It's his process.
+For example, [Quentin Tarantino said about his writing process](https://www.youtube.com/watch?v=Yk7l_C9ADTk) that he writes during the day, then he sits down in his pool, where he plays in his mind about what he wrote that day, then he generates a bunch of ideas, he writes them down as notes to write them the next day. And that is his writing process. It makes things work. It's his process. And it works because he does it. In particular, he repeats it mostly every day, while he's writing.
 
-> Establish a macro cycle
-> Identifiy and eliminate things that get in the way of your macro, bad habits, time sinks...
-> Look for better ways to do things, normal life tends to be inefficient
+## Establishing a good macro cycle
+
+Setting up a macro cycle (habits) is key to improve and therefore win. But not all macro cycles are equally valid, so what is a good macro cycle?
+
+That is like asking what is good and what is bad, so everyone can have a different answer.
+
+In Starcraft, though, this is well defined by the game mechanics. A macro cycle involves (in simple terms), growing your economy (keeping worker production going), building your army, improving your army (with upgrades) and scouting (spying what the enemy is doing). These need to be done in a rotation every few seconds. In the mean time, the player can micromanage their units, but keeping this macro cycle is more important.
+
+In the context of a real life goal (becoming a good developer), we could find a set of good habits that would keep us on top of our game and help us reach our goal. So there's probably an optimal macro cycle to achieve each particular goal.
+
+How to find this optimal cycle? Not a question with a clear answer, but:
+
+- Identify and eliminate things that get in the way of your macro: that would be bad habits, time sinks... for example, if you spend 2 hours a day watching random yoputube videos, that will slow you down, so you might consider remove it. If having your phones whatsap's notifications on distracts you, you might consider setting "no disturb" on.
+- Continually research and look for better ways to do things: if you don't know what is the optimal macro cycle, the logical thing is to spend some time doing research. Normal life tends to be inefficient. In particular, try to copy the "macro cycles" of the "pros".
+
+## The default lifestyle is inefficient
+
+> Dont copy the masses
+> Don't copy what random friends are doing
+> A good starting point is to find and copy someone who is already successful
+> But don't get stuck in copying, build your own path and set of tools
