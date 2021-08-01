@@ -25,6 +25,7 @@ SC2 outline
   - Look back at how you have done things, particularly your mistakes.
     - Be critical with yourself
       - But don't punish yourself for your mistakes
+      - And don't compare yourself to others, compare yourself to how you were yesterday
         - We're all human
   - You're alwys responsible for your mistakes
     - The cause is always something **you** did badly
@@ -43,6 +44,9 @@ SC2 outline
     - For example: exercising, investing, reading, writing...
   - Don't let your life be a mess
   - Don't go aimless on your day to day, without knowing what to do. Set habits mindfully
+
+- 4.5 Put your habits in autopilot
+  -
 
 - 5. Give your habits (macro) priority over "urgent" stuff that shows up daily (micro)
   - Life gets in the way of your plans constantly
@@ -87,3 +91,10 @@ SC2 outline
   - The more you practice, the better
   - Don't let lots of time go between your practice sessions
     - Practice daily
+
+- 11. Do mentally demanding tasks when your mind is sharp.
+  - Without a fresh and rested mind, you can't perform
+  - We live in a society that seems to be stubbornly obsessed with productivity and hard work. Burning down the midnight oil
+    - That is damaging the quality of whatever you're doing
+  - If you are sleepy or tired and force yourself to do something intellectually demanding, your performance will go down in terms of speed and quality.
+    - In such cases, it's much better to take a rest, sleep, take a walk... switch your brain off for a while
