@@ -5,7 +5,7 @@ SC2 outline
   - I'm not good at Starcraft2, but I know how the game goes
     - Much of the following ideas come from watching Lowko and Day9 videos
   - Maybe I can learn this from any other hobby
-    - But Starcraft 2 is unique in the sense that it combines two concepts: micro and macro
+    - But Starcraft 2 is unique in the sense that it balances two concepts: micro and macro
       - Macro and micro might be the most important and general concepts of the game
       - Macro can be broadly qualified as "important things"
         - Need to do them over an over and have compound effect on your game
@@ -46,7 +46,9 @@ SC2 outline
   - Don't go aimless on your day to day, without knowing what to do. Set habits mindfully
 
 - 4.5 Put your habits in autopilot
-  -
+  - You already made the decision whether to do them, so just do them
+    - That will remove the need to decide whether you should do them
+    - It will free "decision-making energy" to spend in other things that are not habits
 
 - 5. Give your habits (macro) priority over "urgent" stuff that shows up daily (micro)
   - Life gets in the way of your plans constantly
@@ -81,6 +83,7 @@ SC2 outline
     - Pick one small thing and learn to do that
       - Allow yourself to suck at everything else
       - Practice that small thing until it becomes second nature, "muscle memory"
+        - Until you've done it so many times that you don't even have to think
         - Muscle memory allows you to do something without even thinking, freeing more brain power to learn the next thing
 
 - 9. Accept that practicing a new thing will at first feel very awkward and difficult.
@@ -92,9 +95,25 @@ SC2 outline
   - Don't let lots of time go between your practice sessions
     - Practice daily
 
-- 11. Do mentally demanding tasks when your mind is sharp.
+- 11. Do mentally demanding tasks when your mind is sharp
+  - Otherwise rest, or do something easier
   - Without a fresh and rested mind, you can't perform
   - We live in a society that seems to be stubbornly obsessed with productivity and hard work. Burning down the midnight oil
     - That is damaging the quality of whatever you're doing
   - If you are sleepy or tired and force yourself to do something intellectually demanding, your performance will go down in terms of speed and quality.
     - In such cases, it's much better to take a rest, sleep, take a walk... switch your brain off for a while
+
+- 12. Accept that losing is part of the game
+  - Accept loss without feeling even a it bad, loss is inevitable
+  - When you realize you can't win, accept it, give up and move on to the next game
+    - No point in spending energy and time in something lost
+
+- 13. Your skill at doing something is really your skill at doing it in less than ideal circumstances.
+  - Real life is unpredictable and things break and fail that shouldn't
+    - That's the normal playground, not an ideal scenario where things go to plan
+    - Level up your skill so that it is sufficient to deal with real-life problems, not with hypotheticals where everything goes well
+    - When shit hits the fan, don't freak out, because that's normal and expected
+      - Stay calm, do your best
+        - Pick up the pieces after the storm
+      - Don't feel like you're unprepared or a failure and don't panic
+    - Expect your successes to be messy, not elegant
