@@ -20,7 +20,10 @@ export default {
   },
   computed: {
     title() {
-      return this.post.title.split('- Luis')[0].trim()
+      if (this.post.title) {
+        return this.post.title.split('- Luis')[0].trim()
+      }
+      return ''
     },
   },
 }

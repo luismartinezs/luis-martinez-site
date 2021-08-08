@@ -14,7 +14,37 @@ SC2 outline
         - Need split second reaction time, either do right now or don't do them
           - Not doing them is more or less equivalent to letting small bad things happen
             - Good macro far outweights good micro
+  - SC2 is a real strategy game where you must build an economy and an army, and use it to defeat your opponent
+    - You must juggle your focus between building your economy and controlling your army
+      - Not easy
+  - Learning to play SC2 means learning a very complex skill
   - I was thinking "how can one become a better developer?"
+    - Web devlopment is a very complex skill
+      - So I asked myself: "What can I learn from SC2 that can help me learn web devleopment?"
+
+
+- 5. Give your habits (macro) priority over "urgent" stuff that shows up daily (micro)
+  - Life gets in the way of your plans constantly
+    - Improvise a party
+    - A friend tells you to go out and you do
+    - Someone calls you out of the blue
+    - Something breaks and you need to fix it
+  - Don't let the little stuff in life keep on distracting you from staying on top of your habits
+
+- 4. Establish habits designed to move you forward in life.
+  - Starcraft has "macro cycles", actions repeated every few seconds that push forward your economy
+    - Build workers, build more supply, train army, build new structures, scout the enemy
+    - Not doing those would mean your economic productivity doesn't grow, you use resources very inefficiently and you lack intel
+      - In short, you would be helplessly lost in a mess you created
+  - The macro cycles of life would be a set of habits that are repeated every X hours or days or weeks.
+    - For example: exercising, investing, reading, writing...
+  - Don't let your life be a mess
+  - Don't go aimless on your day to day, without knowing what to do. Set habits mindfully
+
+- 4.5 Put your habits in autopilot
+  - You already made the decision whether to do them, so just do them
+    - That will remove the need to decide whether you should do them
+    - It will free "decision-making energy" to spend in other things that are not habits
 
 - 1. Reshape your goals into something useful
   - Goal != winning this game
@@ -34,29 +64,7 @@ SC2 outline
 - 3. Look at the "first cause"
   - From Day9
   - When something goes wrong, don't look at the thing that happened immediately before to find the cause. Look back at the first thing you did wrong that led to the failure, and fix that.
-
-- 4. Establish habits designed to move you forward in life.
-  - Starcraft has "macro cycles", actions repeated every few seconds that push forward your economy
-    - Build workers, build more supply, train army, build new structures, scout the enemy
-    - Not doing those would mean your economic productivity doesn't grow, you use resources very inefficiently and you lack intel
-      - In short, you would be helplessly lost in a mess you created
-  - The macro cycles of life would be a set of habits that are repeated every X hours or days or weeks.
-    - For example: exercising, investing, reading, writing...
-  - Don't let your life be a mess
-  - Don't go aimless on your day to day, without knowing what to do. Set habits mindfully
-
-- 4.5 Put your habits in autopilot
-  - You already made the decision whether to do them, so just do them
-    - That will remove the need to decide whether you should do them
-    - It will free "decision-making energy" to spend in other things that are not habits
-
-- 5. Give your habits (macro) priority over "urgent" stuff that shows up daily (micro)
-  - Life gets in the way of your plans constantly
-    - Improvise a party
-    - A friend tells you to go out and you do
-    - Someone calls you out of the blue
-    - Something breaks and you need to fix it
-  - Don't let the little stuff in life keep on distracting you from staying on top of your habits
+  - When you fuck up, ask yourself: "Where did this mess begin?"
 
 - 6. The default lifestyle is "badly optimized", purposefully tweak your lifestyle.
   - Starcraft comes out of the box with default keyboard shortcuts, or hotkeys, to play.
@@ -90,10 +98,11 @@ SC2 outline
   - You will feel unconfortable and feel that you suck
   - Simply push through that phase without judging yourself
 
-- 10. Focus on practiting often
+- 10. Focus on practicing often
   - The more you practice, the better
   - Don't let lots of time go between your practice sessions
     - Practice daily
+    - Example of keyboard typing
 
 - 11. Do mentally demanding tasks when your mind is sharp
   - Otherwise rest, or do something easier
@@ -112,8 +121,14 @@ SC2 outline
   - Real life is unpredictable and things break and fail that shouldn't
     - That's the normal playground, not an ideal scenario where things go to plan
     - Level up your skill so that it is sufficient to deal with real-life problems, not with hypotheticals where everything goes well
+      - Over-practice, over-prepare, don't just barely make in your theoretical practice scenario
     - When shit hits the fan, don't freak out, because that's normal and expected
       - Stay calm, do your best
         - Pick up the pieces after the storm
       - Don't feel like you're unprepared or a failure and don't panic
     - Expect your successes to be messy, not elegant
+
+References:
+
+- [Day9](https://www.youtube.com/channel/UCaxar6TBM-94_ezoS00fLkA)
+- [Lowko](https://www.youtube.com/channel/UCZNTsLA6t6bRoj-5QRmqt_w)
