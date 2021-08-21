@@ -21,7 +21,7 @@ Web development is also a **very complex skill**. Lots of moving pieces.
 
 So, as a fan of Starcraft 2, I (naturally) thought:
 
-> How what one can learn from playing Starcraft 2 extrapolate to learning a complex skill, like web development?
+> Can I extrapolate what I learn from playing Starcraft 2 to a complex skill, like web development?
 
 And:
 
@@ -52,11 +52,11 @@ Faced with a huge task like learning to play Starcraft, or learning web developm
 
 It isn't.
 
-Understand that no matter complex a skill might look, it is within your grasp to learn it, if you commit and are patient.
+Understand that no matter how complex a skill might look, it is within your grasp to learn it, if you commit and are patient.
 
 Do not try to learn all aspects of a skill at the same time. Focus on one tiny aspect of the skill, and allow yourself to completely suck at everything except at that thing.
 
-Practice one thing at a time.
+Practice one tiny thing at a time.
 
 Practice that one tiny thing many times, until you develop "muscle memory" (the ability to do that well without even thinking about it). As that happens, you'll be able to do that without speding mental energy on that, so you'll be able to focus on the next thing.
 
@@ -77,7 +77,7 @@ Always remember that learning from a loss is more important than a win.
 
 ## Start by fixing the first thing you did wrong
 
-Also known as "the principle of the first cause" (I probably made up that name).
+Also known as "The Principle of the First Cause" (I probably made up that name).
 
 When something goes wrong, we have a tendency to blame whatever happened immediately before the disaster. Don't do that. Right before a loss, things were probably too messed up already due to lots of mistakes being piled up.
 
@@ -108,11 +108,11 @@ In Starcraft 2, players split their attention between macro and micro tasks.
 
 Starcraft 2 shows you that neglecting "macro" to spend more time in "micro" is always a bad idea, and should be avoided. I think this is true in real life too.
 
-Don't let the little stuff in life keep on distracting you from staying on top of your good habits.
+Don't let the little stuff in life distract you from staying on top of what matters.
 
 ## Establish habits designed to move you forward in life
 
-To be on top of macro players do a series of tasks or "rotations" routinely every few seconds. These rotations are known as a "macro cycles".
+To be on top of macro, players do a series of tasks or "rotations" routinely every few seconds. These rotations are known as a "macro cycles".
 
 Thus, success in Stracraft 2 needs good "macro cycles" performed routinely. Success in life too needs "habit rotations" that performed routinely move you forward and lead to good outcomes.
 
@@ -128,12 +128,46 @@ For example, a very basic "habit rotation" would be:
 - Fast once a week
 - Read 1 hour per day
 
-The point is: don't let your life be a mess. Don't go aimless on your day to day without knowing what to do. On the contrary, mindfuly pick a "habit rotation" and prioritize doing it, because its compound effect will have a profound impact over time.
+The point is not however what those should be, but: don't let your life be a mess.
+
+Don't go aimless on your day to day without knowing what to do. On the contrary, mindfuly pick a "habit rotation" and prioritize doing it, because its compound effect will have a profound impact over time.
+
+That connects to the next lesson.
+
+## Get rid of bad habits
+
+In Starcraft 2, F2 selects your entire army. It's very tempting for beginners to do that because it's easy. However, it is a bad habit that will get on the way of improving and will have to be unlearned.
+
+Find the things you do often that get on your way. Things that are a waste of time and energy. It's very tempting to be lazy and to keep on doing things the bad way just because you started doing them that way (maybe you didn't know better).
+
+In the programming world, that goes for example for manual tasks that need to be done over an over. Don't be lazy and write a script to automate them, even if it feels scary because you've never done it before.
+
+In more general terms, it might be things like mindlessly watching YouTube, or playing too many videogames (that time when Starcraft teaches you to stop playing Starcraft...), which detract you from good habits.
+
+Kill or minimize your bad habits. We all have them.
+
+# Put your habits (or your decision about them) on auto-pilot
+
+I know I'm insisting on habits, but I think they're key.
+
+Once you've decided:
+
+- What habits you'll do
+- How often you will do each
+- That you will give them priority
+
+There's really no decision-making left about that, and it should make things easier. You don't have to think whether you do them or not. And it doesn't matter what else you think you have to do, or whether you're "busy" with something else.
+
+Simply do them.
+
+You will have more "decision-power" to spend on other things.
+
+I suggest that for each habit you set some kind of timer, so that you can keep track of when you have to do them without having to think whether it's the time or not.
+
+The [multitimer android app](https://play.google.com/store/apps/details?id=com.jee.timer&hl=en&gl=US) works for me.
 
 
-- Establish good macro cycle - habits
-- Get rid of bad habits - habits
-- Habits on autopilot - habits
+
 - Practice very often to improve quickly - habits
 - Accept that you will suck at first - mindset
 - Accept that losing is part of the game - mindset

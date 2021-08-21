@@ -1,4 +1,4 @@
-SC2 outline
+# SC2 outline
 
 - Lessons taken from SC2
   - That can be applied to life and learning programming
