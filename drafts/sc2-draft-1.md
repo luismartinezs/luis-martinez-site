@@ -146,7 +146,7 @@ In more general terms, it might be things like mindlessly watching YouTube, or p
 
 Kill or minimize your bad habits. We all have them.
 
-# Put your habits (or your decision about them) on auto-pilot
+## Put your habits (or your decision about them) on auto-pilot
 
 I know I'm insisting on habits, but I think they're key.
 
@@ -166,11 +166,49 @@ I suggest that for each habit you set some kind of timer, so that you can keep t
 
 The [multitimer android app](https://play.google.com/store/apps/details?id=com.jee.timer&hl=en&gl=US) works for me.
 
+## To improve quickly, practice often
+
+Practice smart, not hard. Sure. But practice.
+
+And practice often.
+
+Starcraft pro-gamers practice 10 or 12 hours a day. There's probably no need to reach this number of hours when learning programming.
+
+But the simple truth is that lots of cumulative practice will bring you where you want to be faster. You get good at what you do often. The more you practice, the better you'll get.
+
+And frequent practice will help.
+
+Practicing one skill daily, or even multiple times a day, will skyrocket the speed at which you learn. Don't let lots of time go between practice sessions, otherwise the brain kind of resets.
+
+Oppositely, only thinking that you want to be a good developer without follow up action won't bring you anywhere. Make sure you're not in that last group.
+
+## Accept that you will suck at first
+
+When you start practicing a new skill, or anything new that you've never done before and are not familiar with, you will feel unconfortable. This will happen particularly when learning a complex skill composed of many sub-skills, like Starcraft or programming.
+
+You'll feel that you suck. It will feel like going uphill when you only want to slide down into comfort.
+
+Allow yourself to suck. Allow yourself to suck badly, and accept that it is perfectly fine for you to suck now. Because eventually you won't.
+
+Simply push through that phase.
+
+## Accept that losing is part of the game, concede when you can't win
+
+Accept defeat as a natural part of life. Try to win, try to face the odds looking for that chance of victory, even if it's small. Struggle in front of challenges.
+
+But sometimes there's a point when defeat is inevitable, regardless of what you do from that point onwards. In that case, any more energy spent there is a waste.
+
+When you realize you can't win, accept defeat. Give up. Learn from what caused your defeat. And move on to the next chance of winning.
+
+Simple but hard advice.
+
+## Practice when sharp, rest when tired
+
+Without a fresh or rested mind, you can't perform well. Working to exhaustion, burning the midnight oil, can be damaging to the quality of your work.
+
+Do mentally demanding tasks when your mind is sharp. If you are tired, it's much better to take a rest, sleep, take a walk... switch off your brain for a while.
+
+## Tweak your lifestlye, don't settle for unoptimal
 
 
-- Practice very often to improve quickly - habits
-- Accept that you will suck at first - mindset
-- Accept that losing is part of the game - mindset
-- Practice when sharp, rest when tired - improve
-- Tweak your lifestlye, don't settle for unoptimal - improve
 - Over-prepare - improve
