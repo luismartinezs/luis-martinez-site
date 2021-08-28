@@ -210,5 +210,26 @@ Do mentally demanding tasks when your mind is sharp. If you are tired, it's much
 
 ## Tweak your lifestlye, don't settle for unoptimal
 
+Starcraft comes out of the box with default settings. These are ineffective and can lead to bad habits. So what people do is tweak them to be able to play more effectively.
 
-- Over-prepare - improve
+Players generally copy the configuration of a pro-gamer and go from there. Later tweaking their configuration to customize it more to their playstyle, once they understand better how the game works.
+
+Society too seems to be "configured out of the box" with some defaults. In general terms, go to school, go to university, get a job and work for 40 years. Whereas this doesn't need to be terrible, let's not overestimate how good it can be, and realize that you don't need to follow all these things for your life to be good.
+
+Look for "pros": people who are in a situation that you desire. This could be someone freelancing as a web developer in a very successful way, or someone who is physically strong as a result of training.
+
+Copy their lifestlye and the things they do as a first approach. That will automatically put you in a better position than before.
+
+Then don't get forever stuck in doing what they do. Start doing things your way.
+
+## Your skill at doing something is really your skill at doing it in less than ideal circumstances
+
+The controlled environment where you train and practice your skills and real life are two different things. Real life is quite unpredictable and sometimes things break at the worst moment. Sometimes shit hits the fan, the storm hits.
+
+Level up your skill, not to the bare minimum, not to deal with hypotheticals where everything goes according to plan, but to the level where you can deal with messy real-life scenarios.
+
+Over-practice. Over-prepare. Be able to perform on the theoretical scenarios blind-folded.
+
+Then, when shit hits the fan don't freak out, don't feel like a failure, because that's normal. Do your best, then pick up the pieces after the storm.
+
+Don't expect your successes to be elegant, expect them to be messy.
