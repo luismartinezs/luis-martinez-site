@@ -233,3 +233,10 @@ Over-practice. Over-prepare. Be able to perform on the theoretical scenarios bli
 Then, when shit hits the fan don't freak out, don't feel like a failure, because that's normal. Do your best, then pick up the pieces after the storm.
 
 Don't expect your successes to be elegant, expect them to be messy.
+
+
+## You don't learn to "play the game", you learn a specific way to play the game
+
+- You learn a build order
+- Devs dont'learn everything there is to web development and do it well, they learn how to do a speicifc type of application with a specific tech stack, and that do that well.
+- Doesnt mean can't have generalist knowledge, it means they don't try to nail down everything equally well, they speciaize
