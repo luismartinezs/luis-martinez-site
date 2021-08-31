@@ -1,13 +1,11 @@
 ---
-title: Lessons from Starcraft 2 - Luis Martinez Web Developer
+title: What can you learn from playing Starcraft? - Luis Martinez Web Developer
 description:
 excerpt:
 createdAt: 2021-08-08
 ---
 
-# What can you learn from playing Starcraft 2?
-
-## Is Starcraft 2 relevant at all to web development?
+# What can you learn from playing Starcraft?
 
 I love Starcraft since 1999.
 
@@ -29,8 +27,23 @@ And:
 
 In what is perhaps a fun thought experiment more than anything, I came up with the following.
 
-Grab your popcorn and enjoy.
+*Disclaimer: Here, I don't intend to review Starcraft. Some things are simplified for briefness's sake.*
 
+Grab your popcorn or nachos and enjoy.
+
+## You don't learn to play the game, you learn a *specific way* to play the game
+
+In Starcraft, you pick one of 3 races to play. Then, of all the multiple ways to use that race, you get very good at a specific way to play them.
+
+Commonly, you don't learn all possible strategies for all 3 races and learn to execute them flawlessly.
+
+Likewise, a developer doesn't learn all technologies, all web stacks, all types of websites and applications. Devs learn a specific set of technologies, and learn to develop a specific type of applications in a specific way and with a specific structure.
+
+If there's a need to change and adapt, it's always possible.
+
+But as a general rule, the goal of the game is not to learn **everything** that there is under the sun. It is to **win** more over time. In practical terms, to produce high quality work efficiently.
+
+That doesn't mean one should reject aquiring a broad knowledge. It means that one shouldn't try to excel with all tech stacks.
 
 ## Redefine "winning" into something that benefits you
 
@@ -233,10 +246,3 @@ Over-practice. Over-prepare. Be able to perform on the theoretical scenarios bli
 Then, when shit hits the fan don't freak out, don't feel like a failure, because that's normal. Do your best, then pick up the pieces after the storm.
 
 Don't expect your successes to be elegant, expect them to be messy.
-
-
-## You don't learn to "play the game", you learn a specific way to play the game
-
-- You learn a build order
-- Devs dont'learn everything there is to web development and do it well, they learn how to do a speicifc type of application with a specific tech stack, and that do that well.
-- Doesnt mean can't have generalist knowledge, it means they don't try to nail down everything equally well, they speciaize
