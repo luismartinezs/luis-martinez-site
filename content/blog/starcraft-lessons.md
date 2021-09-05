@@ -1,11 +1,13 @@
 ---
 title: 15 lessons I learned from playing Starcraft 2 - Luis Martinez Web Developer
-description:
-excerpt:
-createdAt: 2021-08-08
+description: What can you learn from playing Starcraft about learning complex skills like programming? Read this post to find out.
+excerpt: What can you learn from playing Starcraft about learning complex skills like programming? Read this post to find out.
+createdAt: 2021-09-05
 ---
 
 # 15 lessons I learned from playing Starcraft 2
+
+<featured-image path="void-rays_iabzdr" alt=""></featured-image>
 
 I love **Starcraft** since 1999.
 
@@ -95,7 +97,7 @@ But equally importantly, never beat yourself up for your mistakes. Be gentle wit
 
 Always remember that **learning from a loss is more important than a win**.
 
-## Start by fixing the first thing you did wrong
+## 5. Start by fixing the first thing you did wrong
 
 Also known as *The Principle of the First Cause* (I probably made up that name).
 
@@ -114,7 +116,7 @@ Find the first thing you did wrong that led to the failure, and fix *that*.
 **When you fuck up, ask yourself: *What started this mess?***
 
 
-## Good habits are king, don't let anything interfere with them
+## 6. Good habits are king, don't let anything interfere with them
 
 Starcraft tells you that *good habits* are king, and without them you're hopelessly doomed.
 
@@ -136,7 +138,7 @@ Don't let the *micro* of life distract you from staying on top of your *macro*.
 
 Give your important habits priority over the chaotic and random events of life.
 
-## Establish habits designed to move you forward in life
+## 7. Establish habits designed to move you forward in life
 
 To be on top of their *macro*, players perform a series of tasks or *rotations* routinely every few seconds. These rotations are known as a *macro cycles*. This is essential for a good game.
 
@@ -154,7 +156,7 @@ For example, a very basic *habit rotation* would be:
 
 Don't go aimless on your day to day without knowing what to do. On the contrary, **mindfully pick a *habit rotation* and prioritize doing it, because its compound effect will have a profound impact over time**.
 
-## Get rid of bad habits
+## 8. Get rid of bad habits
 
 In Starcraft, *F2* selects your entire army. It's very tempting for beginners to do that because it's easy. However, it is a bad habit that will get on the way of improving and will have to be unlearned.
 
@@ -168,7 +170,7 @@ Kill or minimize your bad habits.
 
 (That time when Starcraft teaches you to stop playing Starcraft, *cough*...)
 
-## Put your habits (or your decision about them) on auto-pilot
+## 9. Put your habits (or your decision about them) on auto-pilot
 
 Once you've decided:
 
@@ -186,7 +188,7 @@ I suggest that for each habit you set some kind of timer, so that you can keep t
 
 The [multitimer android app](https://play.google.com/store/apps/details?id=com.jee.timer&hl=en&gl=US) works for me.
 
-## To improve quickly, practice often
+## 10. To improve quickly, practice often
 
 Practice smart, not hard. Sure. But practice.
 
@@ -204,7 +206,7 @@ And of course, simply *thinking* that you want to be a good developer without fo
 
 **Massive results require massive action**.
 
-## Accept that you will suck at first
+## 11. Accept that you will suck at first
 
 When you start practicing a new skill, or anything new that you've never done before and are not familiar with, you will feel unconfortable. This will happen particularly when learning a complex skill composed of many sub-skills, like Starcraft or programming.
 
@@ -214,7 +216,7 @@ Allow yourself to suck. Allow yourself to suck badly, and accept that it is perf
 
 Simply push through that phase.
 
-## Accept that losing is part of the game, concede when you can't win
+## 12. Accept that losing is part of the game, concede when you can't win
 
 Accept defeat as a natural part of life. Try to win, try to face the odds looking for that chance of victory, even if it's small. Struggle in front of challenges.
 
@@ -224,13 +226,13 @@ But sometimes there's a point when defeat is inevitable, regardless of what you 
 
 A simple but hard piece advice.
 
-## Practice when sharp, rest when tired
+## 13. Practice when sharp, rest when tired
 
 Without a fresh or rested mind, you can't perform well. Working to exhaustion, burning the midnight oil, can be damaging to the quality of your work.
 
 **Do mentally demanding tasks only when your mind is sharp**. If you are tired, it's much better to take a rest, sleep, take a walk... switch off your brain for a while.
 
-## Tweak your lifestlye, don't settle for unoptimal
+## 14. Tweak your lifestlye, don't settle for unoptimal
 
 Starcraft comes out of the box with default *settings*. These are ineffective and can lead to bad habits. So players tweak them to be able to play more effectively.
 
@@ -244,7 +246,7 @@ Copy their habits and mindset, learn from what they do as a first approach. That
 
 Then don't get forever stuck in doing what they do. Start doing things your way.
 
-## Your skill at doing something is really your skill at doing it in less than ideal circumstances
+## 15. Your skill at doing something is really your skill at doing it in less than ideal circumstances
 
 The controlled environment where you train and practice your skills and real life are two different things. Real life is unpredictable and wild. Sometimes shit hits the fan, the storm hits.
 
