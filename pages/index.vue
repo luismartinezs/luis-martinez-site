@@ -9,7 +9,7 @@ export default {
   name: 'Home',
   data() {
     return {
-      blog: [],
+      blog: []
     }
   },
   // async asyncData({ $content }) {
@@ -21,6 +21,6 @@ export default {
   // },
   async fetch() {
     this.blog = await this.$content('blog').fetch()
-  },
+  }
 }
 </script>

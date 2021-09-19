@@ -12,10 +12,6 @@
 
     // Format-on-save with Prettier
     // https://github.com/prettier/prettier-vscode
-    "esbenp.prettier-vscode",
-
-    // Format-on-save with Prettier-Standard
-    // https://github.com/numso/prettier-standard-vscode
-    "numso.prettier-standard-vscode"
+    "esbenp.prettier-vscode"
   ]
 }

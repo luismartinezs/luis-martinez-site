@@ -11,8 +11,8 @@ export default {
     const post = await $content(`blog/${params.slug}`).fetch()
 
     return {
-      post,
+      post
     }
-  },
+  }
 }
 </script>

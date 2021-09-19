@@ -11,11 +11,11 @@ export default {
     const page = await $content(`resume`).fetch()
 
     return {
-      page,
+      page
     }
   },
   head: {
-    title: 'Resume - Luis Martinez Web Developer',
-  },
+    title: 'Resume - Luis Martinez Web Developer'
+  }
 }
 </script>

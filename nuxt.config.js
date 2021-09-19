@@ -32,7 +32,8 @@ export default {
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
-    '@nuxt/image'
+    '@nuxt/image',
+    '@nuxtjs/google-analytics'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -65,5 +66,9 @@ export default {
     cloudinary: {
       baseURL: 'https://res.cloudinary.com/dicyllvry/image/upload/'
     }
+  },
+
+  googleAnalytics: {
+    id: 'UA-141677877-2'
   }
 }
