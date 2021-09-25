@@ -1,7 +1,11 @@
 <template>
   <div class="flex flex-col justify-between h-screen">
     <client-only>
-      <Cookie />
+      <Cookie
+        buttonTextAccept="ACCEPT"
+        buttonTextDeny="DENY"
+        message="I use cookies for Google Analytics. By continuing to browse this site, you consent to this."
+      />
     </client-only>
     <div>
       <div class="flex h-1">
