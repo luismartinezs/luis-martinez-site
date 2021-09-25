@@ -1,9 +1,12 @@
 <template>
   <div class="flex flex-col justify-between h-screen">
+    <client-only>
+      <Cookie />
+    </client-only>
     <div>
       <div class="flex h-1">
-        <div class="flex-1 h-full bg-indigo-500"></div>
-        <div class="flex-1 h-full bg-green-500"></div>
+        <div class="flex-1 h-full bg-indigo-500" />
+        <div class="flex-1 h-full bg-green-500" />
       </div>
       <TheHeader />
       <main class="w-full mx-auto mt-6">
@@ -13,6 +16,15 @@
     <TheFooter />
   </div>
 </template>
+
+<script>
+import Cookie from '@/components/Cookie.vue'
+export default {
+  components: {
+    Cookie
+  }
+}
+</script>
 
 <style>
 html {

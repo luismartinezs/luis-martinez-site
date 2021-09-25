@@ -21,7 +21,12 @@ export default {
   css: ['@/assets/css/index.css'],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [],
+  plugins: [
+    {
+      src: './plugins/GoogleAnalytics.js',
+      mode: 'client'
+    }
+  ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
@@ -66,9 +71,5 @@ export default {
     cloudinary: {
       baseURL: 'https://res.cloudinary.com/dicyllvry/image/upload/'
     }
-  },
-
-  googleAnalytics: {
-    id: 'UA-141677877-2'
   }
 }
