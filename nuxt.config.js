@@ -53,6 +53,10 @@ export default {
     '@nuxtjs/sitemap'
   ],
 
+  sitemap: {
+    hostname: 'https://www.luis-martinez.net'
+  },
+
   feed: [
     // A default feed configuration object
     {
