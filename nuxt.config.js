@@ -47,7 +47,45 @@ export default {
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxtjs/robots',
+    '@nuxtjs/feed',
+    '@nuxtjs/sitemap'
+  ],
+
+  feed: [
+    // A default feed configuration object
+    {
+      path: '/feed.xml', // The route to your feed.
+      async create(feed) {
+        feed.options = {
+          title: 'Luis Martinez Web Developer',
+          link: 'https://www.luis-martinez.net/feed.xml',
+          description: 'Get my latest articles about web development!'
+        }
+
+        const { $content } = require('@nuxt/content')
+        const posts = await $content('blog').fetch()
+        posts.forEach((post) => {
+          feed.addItem({
+            title: post.title,
+            id: post.slug,
+            link: `https://www.luis-martinez.net${post.path}`,
+            description: post.description
+          })
+        })
+
+        feed.addCategory('Web development')
+
+        feed.addContributor({
+          name: 'Luis Martinez Suarez',
+          email: 'BlogPosts',
+          link: 'https://www.luis-martinez.net/'
+        })
+      },
+      cacheTime: 1000 * 60 * 15, // How long should the feed be cached
+      type: 'rss2' // Can be: rss2, atom1, json1
+    }
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
