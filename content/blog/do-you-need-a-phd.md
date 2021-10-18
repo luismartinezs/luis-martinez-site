@@ -13,26 +13,15 @@ Image source: <a href="https://www.artstation.com/delgoni" rel="nofollow">Winter
 
 tl,dr: No. You need commitment and technical skills. Though a PhD helps your resume stand out, upping your chances to get interviews.
 
-
-
-
-
 ## Why do I write this?
 
+In October 2019 I submitted a post on reddit that got some attention (also in <nuxt-link to="/blog/from-jobless-to-junior-frontend-developer-in-5-months">this blog</nuxt-link>). I also have a PhD in computational chemistry. A handful of commenters assumed that my PhD got me the job. I am thankful to them for making me aware of that point of view (I wasn't). I think it is a reasonable assumption. I also think it's mistaken, and I will now give my view on this point.
 
-In October 2019 I submitted a post on reddit titled that got attention (also in <nuxt-link to="/blog/from-jobless-to-junior-frontend-developer-in-5-months">this blog</nuxt-link>). I also have a PhD in computational chemistry. A handful of commenters assumed that my PhD got me the job. I am thankful to them for making me aware of that point of view (I wasn't). I think it is a reasonable assumption. I also think it's mistaken, and I will now give my view on this point.
-
-Keep in mind that the context is specifically getting a first job as a *junior* frontend developer.
+Keep in mind that the context is specifically getting a first job as a _junior_ frontend developer.
 
 My conclusions are quite obvious. Don't expect to find any "magic knowledge".
 
-
-
-
-
-
 ## Did a PhD give me the job? In what way did a PhD help me?
-
 
 No, it did not give me the job. I know because I asked the person who interviewed me.
 
@@ -40,14 +29,9 @@ A PhD **helped my resume stand out** in a positive way. It suggests intelligence
 
 I hope it's obvious that a PhD will not miraculously help you nail the interview. So a more relevant question is...
 
-
-
-
-
 ## Do you need a PhD or higher education to GET an interview?
 
-
-You may say: *"Without the PhD you would have never got an interview"*. I don't think it's true. We're hiring junior devs right now (February 2020). None of the candidates has a PhD. Half of them got an interview.
+You may say: _"Without the PhD you would have never got an interview"_. I don't think it's true. We're hiring junior devs right now (February 2020). None of the candidates has a PhD. Half of them got an interview.
 
 So, no (duh).
 
@@ -59,22 +43,13 @@ In sum:
 
 - To increase your chances to get an interview you should put something in your resume that makes it **stand out in a unique and positive way**.
 
-
-
-
-
-
 ## What do you need to put in your resume to get an interview?
-
 
 Give employers what they want.
 
 In my opinion and experience, that is **commitment** and fundamental **technical knowledge**. Show that in your resume.
 
-
-
 ### Commitment: show that you are motivated and committed to this career path.
-
 
 - Mention in your resume that you want to become a **senior developer** (take a look at [the resume I used back then](http://bit.ly/38wlTPF) to see an example).
 
@@ -82,33 +57,21 @@ In my opinion and experience, that is **commitment** and fundamental **technical
 
 - If you decided to pay for one insultingly expensive bootcamp (which is unnecessary), make sure the employer can find their website so that they are able to check the price of admission. Your willingness to cash out suggests commitment.
 
-
-
 ### Fundamental technical knowledge:
 
-
-- Add that you know **HTML5, CSS3, JavaScript and React** (as a frontend dev --- and yes, another framework will do). I go into a bit more detail on what technical skills are needed <nuxt-link to="/blog/from-jobless-to-junior-frontend-developer-in-5-months">in my previous post</nuxt-link> (look for *"the minimum to get a first job"*). Don't bother lying about these, you wouldn't pass the interview anyway.
+- Add that you know **HTML5, CSS3, JavaScript and React** (as a frontend dev --- and yes, another framework will do). I go into a bit more detail on what technical skills are needed <nuxt-link to="/blog/from-jobless-to-junior-frontend-developer-in-5-months">in my previous post</nuxt-link> (look for _"the minimum to get a first job"_). Don't bother lying about these, you wouldn't pass the interview anyway.
 
 - You can add MongoDB and NodeJS/ExpressJS if it is true that you know how to use them (every bootcamp seems to include these), but they are not necessary because as a junior frontend developer you wouldn't be doing anything with the backend and databases anyway.
 
-
-
 ### Combine both things!
-
 
 Show both commitment and knowledge at the same time.
 
 If you learned by yourself, autonomously and using free resources (like I did) AND you have a solid foundation of HTML5, CSS3, JavaScript ES6 and React (or Vue, or Angular), that makes you an excellent candidate for a junior position. Automatically, you prove that you are committed and motivated, because otherwise you wouldn't have found the energy to push yourself through many hours of intense studying. Plus, you show that you will continue learning on your own, which is the icing on the cake in this ever-evolving field. In other words, it makes you exceptionally valuable.
 
-
-
-
 Even if you feel that you lack in formal education, don't let it be a deterrent to pursue a career in development. The world needs you!
 
-
-
 ## Useful links:
-
 
 - <nuxt-link to="/blog/from-jobless-to-junior-frontend-developer-in-5-months">My previous post: "From jobless to junior frontend developer in 5 months"</nuxt-link>
 - [My sample resume](http://bit.ly/38wlTPF)

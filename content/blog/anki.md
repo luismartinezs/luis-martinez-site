@@ -78,7 +78,7 @@ Your setup is ready. But your deck has no cards. Kinda useless.
 
 But we're going to fix that.
 
-If you know that you can import decks create by other people, you may be thinking: _I'll import someone else's deck_.
+If you know that you can import decks created by other people, you may be thinking: _I'll import someone else's deck_.
 
 You could indeed do that, but I discourage it. **Creating your own cards will help you study and force you to summarize what you are learning**. And the cards will "make more sense" to you.
 
