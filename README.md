@@ -26,3 +26,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 Based on this [Essay writing guide](https://docs.google.com/document/d/1JVOAPVA-yMgx4rl_yQzldwnkqnAC4KwtFYXunnJtJng/edit?usp=sharing) by Jordan B. Peterson
 
 See also [GitHub - luismartinezs/essay-template](https://github.com/luismartinezs/essay-template)
+
+## Notes
+
+- Do not update dependencies, everything breaks
