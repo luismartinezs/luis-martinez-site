@@ -3,14 +3,14 @@
     <div
       class="container flex flex-col items-center px-5 py-4 mx-auto sm:flex-row"
     >
-      2021 Luis Martinez
+      {{ new Date().getFullYear() }} Luis Martinez
     </div>
   </footer>
 </template>
 
 <script>
 export default {
-  name: 'TheFooter',
+  name: 'TheFooter'
 }
 </script>
 
