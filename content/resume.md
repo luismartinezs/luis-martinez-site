@@ -6,6 +6,12 @@ title: Resume - Luis Martinez Web Developer
 
 ## Work experience
 
+### Frontend Developer
+
+[_Passionate People_](https://passionatepeople.io/)
+
+
+
 ### Medior Frontend Developer
 
 [_Jobsrepublic_](https://www.jobsrepublic.nl), Amsterdam. Feb/2019-Present
