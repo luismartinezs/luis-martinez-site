@@ -4,31 +4,67 @@ title: Resume - Luis Martinez Web Developer
 
 # Resume
 
+## tl,dr;
+
+Frontend developer since 2019
+
+- The tech stack I feel at home with: Vue, Nuxt, Tailwind CSS, Storyblok (headless CMS)
+
+- My strenghts:
+  - Create component-based, SEO-friendly and accessible user interfaces
+  - Turn designs into code
+  - Craft clean, reusable, maintainable and well-documented code
+
+- Some projects I've worked on:
+  - Internal platform and conferences platform for passionate people: Migrate Nuxt code to a more modern standard (composition API). Extend frontend and backend with new features.
+  - Build Nuxt component library that powers campaign pages, with content managed from Storyblok CMS. Making it easy to create new pages without help of the dev team.
+  - Build Single page applications (like admin dashboards) powered by Vue 3
+
+- Other tools I've used: Storybook, Bootstrap CSS, PostCSS, React, NodeJS, Google Apps Script / Google Sheets scripts, testing frameworks (jest, testcafe)
+
 ## Work experience
 
-### Frontend Developer
+### Frontend Developer @ [_Passionate People_](https://passionatepeople.io/)
 
-[_Passionate People_](https://passionatepeople.io/)
+Amsterdam. Oct/2021-Present
+
+- Maintain Nuxt internal platform
+  - Tech: Nuxt 2 + composition API, tailwind CSS, Storybook
+  - Migrate options API components to composition API (newer, better style)
+  - Refactor and extend existing features, increasing reusability and code readability
+  - Add a new page that shows a dynamic list of data from the database
+
+
+- Maintain Nuxt conference platform
+  - Tech: Nuxt 2 + composition API, tailwind CSS, storyblok CMS
+  - Manual testing of user flows, finding bugs, adding small features to the UI, preparing platform for live conference
+  - Help re-architect project to increase its maintainability, creating development and staging environments
+
+
+- Maintain backend platform with serverless infrastructure
+  - Tech: NodeJS, Sanity client,
+  - Manual testing of existing endpoints
+  - Creation of new endpoints for reading and editing data from the database
 
 
 
-### Medior Frontend Developer
+### Frontend Developer @ [_Jobsrepublic_](https://www.jobsrepublic.nl)
 
-[_Jobsrepublic_](https://www.jobsrepublic.nl), Amsterdam. Feb/2019-Present
+Amsterdam. Feb/2019-Oct/2021
 
-Development of a **Nuxt component library** to use in conjunction with **Storyblok CMS**. **PostCSS**, **Tailwind CSS**.
+- Development of a **Nuxt component library** to use in conjunction with **Storyblok CMS**. **PostCSS**, **Tailwind CSS**.
 
-Development of a **Nuxt** website: One code base, multiple sites. Deployment in **AWS** using internally established deployment guidelines. Certificate manager, route 53, EC2 load balancers and target groups, ECS
+- Development of a **Nuxt** website: One code base, multiple sites. Deployment in **AWS** using internally established deployment guidelines. Certificate manager, route 53, EC2 load balancers and target groups, ECS
 
-Development of a SPA with **Vue**: **Vuex**, **Vue router**, vertical slice architecture, **testcafe** end to end tests, coding best practices, refactoring, **Vue Bootstrap**, responsive layout, **auth0**, **i18n**
+- Development of a SPA with **Vue**: **Vuex**, **Vue router**, vertical slice architecture, **testcafe** end to end tests, coding best practices, refactoring, **Vue Bootstrap**, responsive layout, **auth0**, **i18n**
 
-Update legacy code to modern standards (Vue SPA)
+- Update legacy code to modern standards (Vue SPA)
 
-Development of integrations to optimize internal tasks: Google Apps script, SendGrid, trello, zapier, lambda functions, serverless
+- Development of integrations to optimize internal tasks: Google Apps script, SendGrid, trello, zapier, lambda functions, serverless
 
-### Project and Accounts Manager
+### Project and Accounts Manager @ [_Vsourz Digital Agency_](https://www.vsourz.com/)
 
-[_Vsourz Digital Agency_](https://www.vsourz.com/), Barcelona. 2015-2018
+Barcelona. 2015-2018
 
 Project manager of website design and development
 
